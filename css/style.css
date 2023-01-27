@@ -7,9 +7,10 @@ body {
     margin: 10px;
     border: 5px solid brown;
 }
+
 #indextitle {
-    border: 3px brown;
-    margin: 500px;
+    border: 5px brown;
+    margin: 500px auto;
 }
 
 #maintitle {
