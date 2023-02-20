@@ -5,16 +5,18 @@ body {
     text-align: center;
     box-sizing: border-box;
     margin: 10px;
-    border: 5px solid brown;
+    border: 3px solid brown;
 }
 
 #indextitle {
-    border: 5px brown;
+    border: 3px brown;
     margin: 500px auto;
 }
 
 #maintitle {
-    margin: 25px;
+    margin: 50px 300px;
+    padding: 10px;
+    border: 3px solid; 
 }
 
 #indexbody {
