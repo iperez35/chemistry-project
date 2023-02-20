@@ -17,8 +17,16 @@ body {
     margin: 25px;
 }
 
+#indexbody {
+    margin: 200px;
+}
+
 img {
     width: 700px;
     height: auto;
     border: 3px solid brown; 
+}
+
+.introstoichpara {
+    
 }
