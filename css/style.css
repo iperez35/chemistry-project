@@ -31,5 +31,19 @@ body {
 img {
     width: 700px;
     height: auto;
-    border: 3px solid brown; 
+    border: 5px solid brown; 
+}
+
+.firsttopic {
+    margin: 50px;
+    
+}
+
+.thermochemthroughE {
+    border: 3px solid brown;
+    margin: 50px 200px;
+    padding: 10px;
+    font-size: 15pt; color: rgb(40, 62, 92)
+    
+    
 }
