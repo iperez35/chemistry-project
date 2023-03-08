@@ -43,7 +43,10 @@ img {
     border: 3px solid brown;
     margin: 50px 200px;
     padding: 10px;
-    font-size: 15pt; color: rgb(40, 62, 92)
-    
-    
+    font-size: 15pt; color: rgb(40, 84, 73)
+}
+
+.secondpara {
+font-size: larger; color: black;
+
 }
