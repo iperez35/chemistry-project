@@ -14,9 +14,9 @@ body {
 }
 
 #maintitle {
-    margin: 50px 300px;
+    margin: 50px 350px;
     padding: 10px;
-    border: 3px solid; 
+    border: 3px solid;
 }
 
 #indexbody {
@@ -31,7 +31,7 @@ body {
 img {
     width: 700px;
     height: auto;
-    border: 3px solid brown; 
+    border: 5px solid brown; 
 }
 
 .firsttopictitle {
@@ -43,10 +43,8 @@ img {
     border: 3px solid brown;
     margin: 50px 200px;
     padding: 10px;
-    font-size: 15pt; color: rgb(40, 84, 73)
+    font-size: 15pt; color: rgb(52, 52, 52)
+    
+    
 }
 
-.secondpara {
-font-size: larger; color: black;
-
-}
