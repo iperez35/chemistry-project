@@ -51,11 +51,31 @@ img {
 .fir, .sed, .thi, .fou, .fif {
     font-size: 15pt; color: rgb(2, 23, 40);
     margin: 50px;
-    
-
-    
 }
 
 strong {
-    font-size: large; color: rgb(0, 0, 0);
+    font-size: 15pt; color: rgb(0, 0, 0);
+}
+
+.enthalpysuppara {
+    margin: 50px 300px;
+    padding: 10px;
+    font-size: 15pt; color: rgb(52, 52, 52);
+}
+
+.enthsuppo {
+    margin: 50px 200px;
+    padding: 10px;
+    font-size: 15pt; color: rgb(52, 52, 52);
+}
+
+.enthequaone {
+    font-size: xx-large;
+    margin: 50px;
+}
+
+.equadesc {
+    margin: 50px 200px;
+    padding: 10px;
+    font-size: 15pt; color: rgb(52, 52, 52);
 }
