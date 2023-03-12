@@ -25,18 +25,16 @@ body {
     font-family: 'Times New Roman', Times, serif; color: black;
     background-color: white;
     border: 5px solid black
-
 }
 
 img {
     width: 700px;
     height: auto;
-    border: 5px solid brown; 
+    border: 6px solid brown; 
 }
 
 .firsttopictitle {
     margin: 50px;
-    
 }
 
 .enthalpyintropara {
@@ -44,8 +42,6 @@ img {
     margin: 50px 200px;
     padding: 10px;
     font-size: 15pt; color: rgb(52, 52, 52);
-    
-    
 }
 
 .fir, .sed, .thi, .fou, .fif {
@@ -58,7 +54,7 @@ strong {
 }
 
 .enthalpysuppara {
-    margin: 50px 300px;
+    margin: 50px 250px;
     padding: 10px;
     font-size: 15pt; color: rgb(52, 52, 52);
 }
@@ -78,4 +74,12 @@ strong {
     margin: 50px 200px;
     padding: 10px;
     font-size: 15pt; color: rgb(52, 52, 52);
+}
+
+#pagetwolink {
+    color: blue;
+    border: 3px solid brown;
+    margin: 50px 300px;
+    padding: 10px;
+    
 }
