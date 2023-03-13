@@ -33,11 +33,11 @@ img {
     border: 6px solid brown; 
 }
 
-.firsttopictitle {
+.firsttitle, .secondtitle {
     margin: 50px;
 }
 
-.enthalpyintropara {
+.enthalpyintropara, .secintropara {
     border: 3px solid brown;
     margin: 50px 200px;
     padding: 10px;
@@ -54,12 +54,12 @@ strong {
 }
 
 .enthalpysuppara {
-    margin: 50px 250px;
+    margin: 50px 240px;
     padding: 10px;
     font-size: 15pt; color: rgb(52, 52, 52);
 }
 
-.enthsuppo {
+.enthsuppo, .equadesc {
     margin: 50px 200px;
     padding: 10px;
     font-size: 15pt; color: rgb(52, 52, 52);
@@ -70,16 +70,9 @@ strong {
     margin: 50px;
 }
 
-.equadesc {
-    margin: 50px 200px;
-    padding: 10px;
-    font-size: 15pt; color: rgb(52, 52, 52);
-}
-
 #pagetwolink {
-    color: blue;
+    color: rgb(76, 180, 158);
     border: 3px solid brown;
     margin: 50px 300px;
-    padding: 10px;
-    
+    padding: 10px;   
 }
