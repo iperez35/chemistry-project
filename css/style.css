@@ -44,7 +44,7 @@ img {
     font-size: 15pt; color: rgb(52, 52, 52);
 }
 
-.fir, .sed, .thi, .fou, .fif {
+.fir, .sec, .thi, .fou, .fif {
     font-size: 15pt; color: rgb(2, 23, 40);
     margin: 50px;
 }
@@ -59,13 +59,13 @@ strong {
     font-size: 15pt; color: rgb(52, 52, 52);
 }
 
-.enthsuppo, .equadesc {
+.enthsuppo, .equadesc, .equadesctwo, .equapara {
     margin: 50px 200px;
     padding: 10px;
     font-size: 15pt; color: rgb(52, 52, 52);
 }
 
-.enthequaone {
+.equationone, .equationtwo, .equationthree {
     font-size: xx-large;
     margin: 50px;
 }
