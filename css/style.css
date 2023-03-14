@@ -30,7 +30,7 @@ body {
 img {
     width: 700px;
     height: auto;
-    border: 6px solid brown; 
+    border: 10px solid brown; 
 }
 
 .firsttitle, .secondtitle {
@@ -59,13 +59,13 @@ strong {
     font-size: 15pt; color: rgb(52, 52, 52);
 }
 
-.enthsuppo, .equadesc, .equadesctwo, .equapara {
+.enthsuppo, .equadesc, .equadesctwo, .equadescthree, .equadescthreecont, .equadescfour, .equapara {
     margin: 50px 200px;
     padding: 10px;
     font-size: 15pt; color: rgb(52, 52, 52);
 }
 
-.equationone, .equationtwo, .equationthree {
+.equationone, .equationtwo, .equationthree, .equationfour {
     font-size: xx-large;
     margin: 50px;
 }
