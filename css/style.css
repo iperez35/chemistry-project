@@ -20,7 +20,7 @@ body {
 }
 
 #indexbody {
-    margin: 200px;
+    margin: 250px;
     padding: 50px;
     font-family: 'Times New Roman', Times, serif; color: black;
     background-color: white;
@@ -71,7 +71,7 @@ strong {
 }
 
 #pagetwolink, #pagethreelink {
-    color: rgb(76, 180, 158);
+    color: rgb(76, 118, 180);
     border: 3px solid brown;
     margin: 50px 300px;
     padding: 10px;   
