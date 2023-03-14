@@ -14,7 +14,7 @@ body {
 }
 
 #maintitle {
-    margin: 50px 350px;
+    margin: 50px 300px;
     padding: 10px;
     border: 3px solid;
 }
@@ -33,11 +33,11 @@ img {
     border: 10px solid brown; 
 }
 
-.firsttitle, .secondtitle {
+.firsttitle, .secondtitle, .thirdtitle {
     margin: 50px;
 }
 
-.enthalpyintropara, .secintropara {
+.enthalpyintropara, .secintropara, .thirdintropara {
     border: 3px solid brown;
     margin: 50px 200px;
     padding: 10px;
@@ -70,7 +70,7 @@ strong {
     margin: 50px;
 }
 
-#pagetwolink {
+#pagetwolink, #pagethreelink {
     color: rgb(76, 180, 158);
     border: 3px solid brown;
     margin: 50px 300px;
